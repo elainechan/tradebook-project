@@ -1,0 +1,3 @@
+-- Trade list of a book
+-- contributing trades and associated quantity
+-- join book and trade tables

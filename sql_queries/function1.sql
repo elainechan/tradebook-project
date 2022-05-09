@@ -1,0 +1,4 @@
+-- current book value
+-- for each instrument:
+-- input = instrument_id, current_price
+-- output = quantity * price

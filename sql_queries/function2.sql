@@ -1,0 +1,3 @@
+-- convert to denomination
+-- IN = source, target, rate
+-- out: amount
