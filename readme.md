@@ -33,3 +33,6 @@ This is an ugly website of the project for the lovely course Principles of Datab
 - Data type - column integrity
 
 ## Views, Procedures, Functions, and Triggers
+
+## ER Diagram
+![ER diagram](trading_system_erd.png)
